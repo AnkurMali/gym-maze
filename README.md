@@ -37,5 +37,9 @@ The maze is reset when the agent reaches the goal.
 You need Python **3.6** or **3.7** to run the script. After this, install the package. 
 - `python setup.py install`
 
-Another way to install the package is by using test.pypi.org.
-- `pip install gym-maze-trustycoder83`
+
+## If facing errors withpygame
+## do
+sudo apt-get install python-dev libsdl-image1.2-dev libsdl-mixer1.2-dev libsdl-ttf2.0-dev libsdl1.2-dev libsmpeg-dev python-numpy subversion libportmidi-dev ffmpeg libswscale-dev libavformat-dev libavcodec-dev libfreetype6-dev.
+
+Sudo apt-get update
